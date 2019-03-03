@@ -1,7 +1,7 @@
 package com.config;
 
+import com.util.ResponseUtil;
 import org.hibernate.validator.internal.engine.path.PathImpl;
-import org.linlinjava.litemall.core.util.ResponseUtil;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.converter.HttpMessageNotReadableException;
