@@ -1,2 +1,2 @@
-# demo
-It is about a springboot program,just a example for practice
+# 项目说明
+个人使用：git地址
